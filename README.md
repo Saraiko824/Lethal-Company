@@ -37,6 +37,10 @@
   - `更多物品` LethalThings
   - `更多裝備` Lategame Upgrades
   - `假人` MaskedEnemyOverhaulFork
+  - `後室` Backrooms
+  - `地牢、下水道` Scoopys_Variety_Mod
+  - `Atlas 地圖` Atlas Abyss
+  - `增強恐怖氛圍` LETHALRESONANCE
 
 ## 不要載
   - AdditionalContentFramework
