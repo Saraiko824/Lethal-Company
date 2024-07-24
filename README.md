@@ -30,6 +30,7 @@
   - `第三人稱` LCThirdPerson
   - `巨人` RollingGiant
   - `跳舞` DacneEmotesBundle
+  - `跳舞` BadAssCompany
   - `更多動作` More_Emotes
 
 ## 不要載
