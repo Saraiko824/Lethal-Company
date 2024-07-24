@@ -19,6 +19,11 @@
   - An0n_Patches `健康資訊`
 
 ## 其他
+  - MoreScreams `死亡後兩秒收音`
+  - Mimics `假出口`
+  - Scopophobia `SCP 096`
+  - FreddyBracken `佛萊迪`
+  - CostlyShotgun `霰彈槍`
 
 ## 不要載
   - AdditionalContentFramework
