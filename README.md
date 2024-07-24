@@ -25,6 +25,8 @@
   - `佛萊迪` FreddyBracken
   - `霰彈槍` CostlyShotgun
   - `建築內傳送器` LC_Better_Teleport
+  - `更多服裝` More_Suits
+  - `第三人稱` LCThirdPerson
 
 ## 不要載
   - AdditionalContentFramework
