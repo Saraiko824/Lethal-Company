@@ -26,7 +26,11 @@
   - `霰彈槍` CostlyShotgun
   - `建築內傳送器` LC_Better_Teleport
   - `更多服裝` More_Suits
+  - `更多服裝` TooManySuits
   - `第三人稱` LCThirdPerson
+  - `巨人` RollingGiant
+  - `跳舞` DacneEmotesBundle
+  - `更多動作` More_Emotes
 
 ## 不要載
   - AdditionalContentFramework
