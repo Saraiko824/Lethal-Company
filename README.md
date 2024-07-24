@@ -23,15 +23,16 @@
   - `假出口` Mimics
   - `SCP 096` Scopophobia
   - `佛萊迪` FreddyBracken
-  - `霰彈槍` CostlyShotgun
   - `建築內傳送器` LC_Better_Teleport
   - `更多服裝` More_Suits
-  - `更多服裝` TooManySuits
   - `第三人稱` LCThirdPerson
   - `巨人` RollingGiant
   - `跳舞` DacneEmotesBundle
   - `跳舞` BadAssCompany
   - `更多動作` More_Emotes
+  - `霰彈槍` BuyableShotgun
+  - `霰彈槍子彈` BuyableShotgunShells
+  - `更多血跡` MoreBlood
 
 ## 不要載
   - AdditionalContentFramework
