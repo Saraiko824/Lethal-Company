@@ -1,5 +1,5 @@
 # 致命公司模組
-## 必要
+## 主要
   - `更多玩家` MoreCompany
   - `詳細資產` ShipLoot
   - `玩家監視器` Helmet Cameras
