@@ -33,6 +33,10 @@
   - `霰彈槍` BuyableShotgun
   - `霰彈槍子彈` BuyableShotgunShells
   - `更多血跡` MoreBlood
+  - `拔電池有機率崩塌` FacilityMeltdown
+  - `更多物品` LethalThings
+  - `更多裝備` Lategame Upgrades
+  - `假人` MaskedEnemyOverhaulFork
 
 ## 不要載
   - AdditionalContentFramework
